@@ -1,0 +1,35 @@
+/* index.css */
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: #f3f4f6; /* light gray */
+}
+
+.dashboard-page {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+/* Card styling */
+.card-container {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+}
+
+.card-header {
+  margin-bottom: 0.5rem;
+}
+
+.card-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin: 0;
+}
+
+.card-content {
+  /* no extra styling needed by default */
+}
